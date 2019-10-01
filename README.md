@@ -4,7 +4,7 @@
 ## How the idea start
 Nowadays there are a lot of devices that work using of 433MHz frequency, such as car and home alarms, wireless door bells, etc.
 I thinked about it and said: Why can't I create a device that in constantly sniffing on this frequency? How can I make this ridiculously funny? 
-So, I created a challenge that if you have to transmiting an special code in 433MHz, you will get a secret code in hexadecimal. Obviously, I mounted all of thins in a hat, why? Because, I think that is cool :D
+So, I created a challenge that if you have to transmiting an special code in 433MHz, you will get a secret code in hexadecimal. Obviously, I mounted all of this in a hat, why? Because, I think that is cool :D
 
 ## Materials
 - Hat
